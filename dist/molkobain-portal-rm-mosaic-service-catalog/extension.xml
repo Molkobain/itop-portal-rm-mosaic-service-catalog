@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension format="1.0">
+	<extension_code>molkobain-portal-rm-mosaic-service-catalog</extension_code>
+	<company>Molkobain</company>
+	<author><![CDATA[Guillaume Lajarige]]></author>
+	<label><![CDATA[Portal: Remove mosaic view from service catalog]]></label>
+	<description><![CDATA[Remove mosaic view from service catalog in the user portal.]]></description>
+	<version>1.0.0</version>
+	<release_date>2018-02-17</release_date>
+	<version_description><![CDATA[Initial release.]]></version_description>
+	<itop_version_min>2.4.0</itop_version_min>
+	<status>stable</status>
+	<mandatory>false</mandatory>
+	<more_info_url>https://github.com/Molkobain/itop-portal-rm-mosaic-service-catalog</more_info_url>
+</extension>

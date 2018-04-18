@@ -8,7 +8,7 @@ SetupWebPage::AddModule(
 	__FILE__, // Path to the current file, all other file names are relative to the directory containing this file
 	'molkobain-portal-rm-mosaic-service-catalog/1.0.0', array(
 	// Identification
-	'label' => 'Portal: Remove mosaic mode from service catalog',
+	'label' => 'Portal: Remove mosaic view from service catalog',
 		'category' => 'Portal',
 	// Setup
 	'dependencies' => array(
