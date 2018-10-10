@@ -1,3 +1,5 @@
+👋 [Available on Molkobain I/O!](https://www.molkobain.com/product/remove-mosaic-view-from-service-catalog/)
+
 # iTop extension: molkobain-portal-rm-mosaic-service-catalog
 
 ### Description
